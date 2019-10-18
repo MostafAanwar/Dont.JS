@@ -1,0 +1,44 @@
+1. Buy usb for laptop
+2. Put usb in laptop
+3. Install linux
+4. Put usb, GOTO 7
+5. Uninstall linux
+6. GOTO 1
+7. Clone https://github/zuckerburg/facebook
+8. Here comes the money
+9. Reset linux wsl kernel
+10. Run `sudo rm -rf` on root directory
+11. Run `sudo apt install DONT_READ_ME -c`
+12. Open control panel
+13. Change theme to 'DONT_CHOOSE_ME'
+14. Run `git add .`
+15. Run `git commit -m "init commit"`
+16. Run `git push origin master -f`
+17. Upload repo to mediafire
+18. Tweet repo url to @elonmusk
+19. Send text message to MOM
+20. Go to roof
+21. Bring warm milk and cookie
+22. Enjoy the sunset
+23. Go to the edge of the roof
+24. Call for M Anwar
+25. Realize that M Anwar was always there
+26. Ask M Anwar for forgiveness
+27. M Anwar pats you on the back saying "am proud of you...son"
+28. ...
+29. Look at the sky
+30. Grab a plastic bag
+31. Look for a garbage truck
+32. Use the plastic bag as parachute while landing on the garbage truck
+33. Realize that your life meant nothing
+34. Say "I wish my death makes more cents than my life"
+35. Look at S   amuael L.jackson landing from above
+36. Grab Samuael L.jackson's hand
+37. Sing with Samuael L.jackson "Straight out of compton" - ice cube
+38. Realize that Samuael L.jackson was your lost grandfather
+39. Remember that you have school tommorow
+40. Right click > save as > dont.dream.js
+41. Wake up
+42. GOTO 1
+...
+76. Run `npm start`
